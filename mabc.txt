@@ -1,0 +1,3 @@
+file in master
+line 2
+bye dear
